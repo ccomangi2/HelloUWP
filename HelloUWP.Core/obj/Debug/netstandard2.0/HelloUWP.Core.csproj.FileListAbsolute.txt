@@ -1,0 +1,9 @@
+C:\Users\suvin\Documents\HelloUWP-master\HelloUWP.Core\bin\Debug\netstandard2.0\HelloUWP.Core.deps.json
+C:\Users\suvin\Documents\HelloUWP-master\HelloUWP.Core\bin\Debug\netstandard2.0\HelloUWP.Core.dll
+C:\Users\suvin\Documents\HelloUWP-master\HelloUWP.Core\bin\Debug\netstandard2.0\HelloUWP.Core.pdb
+C:\Users\suvin\Documents\HelloUWP-master\HelloUWP.Core\obj\Debug\netstandard2.0\HelloUWP.Core.csprojAssemblyReference.cache
+C:\Users\suvin\Documents\HelloUWP-master\HelloUWP.Core\obj\Debug\netstandard2.0\HelloUWP.Core.AssemblyInfoInputs.cache
+C:\Users\suvin\Documents\HelloUWP-master\HelloUWP.Core\obj\Debug\netstandard2.0\HelloUWP.Core.AssemblyInfo.cs
+C:\Users\suvin\Documents\HelloUWP-master\HelloUWP.Core\obj\Debug\netstandard2.0\HelloUWP.Core.csproj.CoreCompileInputs.cache
+C:\Users\suvin\Documents\HelloUWP-master\HelloUWP.Core\obj\Debug\netstandard2.0\HelloUWP.Core.dll
+C:\Users\suvin\Documents\HelloUWP-master\HelloUWP.Core\obj\Debug\netstandard2.0\HelloUWP.Core.pdb
